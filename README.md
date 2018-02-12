@@ -7,5 +7,5 @@
 
 [前端菜鸟帝都一月面试记](https://juejin.im/post/5a7e9063f265da4e732ec32b)
 
-[js设计模式(Design pattern)](https://fanerge.github.io/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%80%BB%E7%BB%93.html)
+[js设计模式(Design pattern)](http://blog.csdn.net/future_todo/article/details/53992152)
 
