@@ -1,7 +1,7 @@
 # web-front_end-develop-Interview
 整理和汇总面试相关的knowledge
 # 思维导图，前端进阶之路
-
+![思维导图，前端进阶之路](http://img1.vued.vanthink.cn/vued7b07cce8449877cba04d7ca4b323303d.png)
 
 ## JS 面试题
 [JavaScript经典面试题（一）](https://juejin.im/entry/5a7283e26fb9a01c965876db?utm_medium=fe&utm_source=weixinqun)
