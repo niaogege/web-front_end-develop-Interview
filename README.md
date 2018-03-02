@@ -2,6 +2,11 @@
 整理和汇总面试相关的knowledge
 # 思维导图，前端进阶之路
 ![思维导图，前端进阶之路](http://img1.vued.vanthink.cn/vued7b07cce8449877cba04d7ca4b323303d.png)
+```
+HTTP(HTTP2/Socket) -> HTML+ CSS(3,4) -> JavaScript(ES5/6/7/8) -> Framework(Vue/Angular/React) -> Node.js -> JS Native(Android/iOS) -> WebGL/Desktop/Chrome Plugin(VR) 
+```
+### 复习指导
+[Web前端年后跳槽面试复习指南](http://www.jackpu.com/nian-hou-fu-xi-zhi-nan/)
 
 ## JS 面试题
 [JavaScript经典面试题（一）](https://juejin.im/entry/5a7283e26fb9a01c965876db?utm_medium=fe&utm_source=weixinqun)
