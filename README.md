@@ -1,5 +1,7 @@
 # web-front_end-develop-Interview
-整理和汇总面试相关的knowledge
+[![Interview](https://img.shields.io/badge/developing%20with-ICE-2077ff.svg)](https://github.com/alibaba/ice)
+整理和汇总面试相关的knowledge,欢迎各位大佬 PULL REQUEST 
+
 # 思维导图，前端进阶之路
 ![思维导图，前端进阶之路](http://img1.vued.vanthink.cn/vued7b07cce8449877cba04d7ca4b323303d.png)
 ```
@@ -27,5 +29,5 @@ HTTP(HTTP2/Socket) -> HTML+ CSS(3,4) -> JavaScript(ES5/6/7/8) -> Framework(Vue/A
 
 [面试分享：一年经验初探阿里巴巴前端社招](https://github.com/jawil/blog/issues/22)
 
-
+[前端工程化体系(Front-end engineering system)的理解](https://juejin.im/entry/5884f012128fe1006c3b6526)
 
