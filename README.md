@@ -22,10 +22,3 @@ HTTP(HTTP2/Socket) -> HTML+ CSS(3,4) -> JavaScript(ES5/6/7/8) -> Framework(Vue/A
 [2018美团前端面试题，两年经验，你能答对几道？](https://juejin.im/post/5a96c6326fb9a063626408c8#comment)
 
 [2018春招前端面试: 闯关记](https://juejin.im/post/5a998991f265da237f1dbdf9)
-
-[前端面试--四月二十家前端面试题分享](https://www.jianshu.com/p/c41cc287d7d4)
-
-[面试分享：一年经验初探阿里巴巴前端社招](https://github.com/jawil/blog/issues/22)
-
-
-
