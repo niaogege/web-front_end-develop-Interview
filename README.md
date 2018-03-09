@@ -22,3 +22,5 @@ HTTP(HTTP2/Socket) -> HTML+ CSS(3,4) -> JavaScript(ES5/6/7/8) -> Framework(Vue/A
 [2018美团前端面试题，两年经验，你能答对几道？](https://juejin.im/post/5a96c6326fb9a063626408c8#comment)
 
 [2018春招前端面试: 闯关记](https://juejin.im/post/5a998991f265da237f1dbdf9)
+
+[vue常见面试题](https://juejin.im/post/5aa00229f265da239b40fc02)
