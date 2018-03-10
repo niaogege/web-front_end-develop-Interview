@@ -35,6 +35,6 @@ HTTP(HTTP2/Socket) -> HTML+ CSS(3,4) -> JavaScript(ES5/6/7/8) -> Framework(Vue/A
 
 [vue常见面试题](https://juejin.im/post/5aa00229f265da239b40fc02)
 
-[常见面试题]https://github.com/xpin1509/web-front_end-develop-Interview/edit/master/README.md
+[常见面试题](https://github.com/Liyuk/Interview-Questions-Answers)
 
 
