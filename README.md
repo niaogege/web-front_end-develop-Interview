@@ -8,7 +8,7 @@
 HTTP(HTTP2/Socket) -> HTML+ CSS(3,4) -> JavaScript(ES5/6/7/8) -> Framework(Vue/Angular/React) -> Node.js -> JS Native(Android/iOS) -> WebGL/Desktop/Chrome Plugin(VR) 
 ```
 ### 复习指导
-[Web前端年后跳槽面试复习指南](http://www.jackpu.com/nian-hou-fu-xi-zhi-nan/) <small>(推荐指数：★★★★★)</small>
+[Web前端年后跳槽面试复习指南](http://www.jackpu.com/nian-hou-fu-xi-zhi-nan/) <font size="2" color="blue">推荐指数：★★★★★)</font>
 
 ## JS 面试题
 [JavaScript经典面试题（一）](https://juejin.im/entry/5a7283e26fb9a01c965876db?utm_medium=fe&utm_source=weixinqun)
