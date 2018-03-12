@@ -33,7 +33,6 @@ HTTP(HTTP2/Socket) -> HTML+ CSS(3,4) -> JavaScript(ES5/6/7/8) -> Framework(Vue/A
 [前端工程化体系(Front-end engineering system)的理解](https://juejin.im/entry/5884f012128fe1006c3b6526)
 ![前端工程化体系](http://oigzv3evy.bkt.clouddn.com/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96%E4%BD%93%E7%B3%BB.png)
 
-[vue常见面试题](https://juejin.im/post/5aa00229f265da239b40fc02)
 
 [常见面试题](https://github.com/Liyuk/Interview-Questions-Answers)
 
