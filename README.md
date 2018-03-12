@@ -2,15 +2,15 @@
 [![Interview](https://img.shields.io/badge/developing%20with-ICE-2077ff.svg)](https://github.com/niaogege/web-front_end-develop-Interview)
 整理和汇总面试相关的knowledge,欢迎各位大佬 PULL REQUEST 
 
-# 思维导图，前端进阶之路
+## 思维导图，前端进阶之路
 ![思维导图，前端进阶之路](http://img1.vued.vanthink.cn/vued7b07cce8449877cba04d7ca4b323303d.png)
 ```
 HTTP(HTTP2/Socket) -> HTML+ CSS(3,4) -> JavaScript(ES5/6/7/8) -> Framework(Vue/Angular/React) -> Node.js -> JS Native(Android/iOS) -> WebGL/Desktop/Chrome Plugin(VR) 
 ```
-### 复习指导
-[Web前端年后跳槽面试复习指南](http://www.jackpu.com/nian-hou-fu-xi-zhi-nan/) <font size="2" color="blue">推荐指数：★★★★★)</font>
+## 复习指导
+[Web前端年后跳槽面试复习指南](http://www.jackpu.com/nian-hou-fu-xi-zhi-nan/) (推荐指数：★★★★★)
 
-## JS 面试题
+## 前端面试题
 [JavaScript经典面试题（一）](https://juejin.im/entry/5a7283e26fb9a01c965876db?utm_medium=fe&utm_source=weixinqun)
 
 [5个面试题](http://blog.csdn.net/u014346301/article/details/53579543)
@@ -24,7 +24,6 @@ HTTP(HTTP2/Socket) -> HTML+ CSS(3,4) -> JavaScript(ES5/6/7/8) -> Framework(Vue/A
 [2018美团前端面试题，两年经验，你能答对几道？](https://juejin.im/post/5a96c6326fb9a063626408c8#comment)
 
 [2018春招前端面试: 闯关记](https://juejin.im/post/5a998991f265da237f1dbdf9)
-
 
 [前端面试--四月二十家前端面试题分享](https://www.jianshu.com/p/c41cc287d7d4)
 
