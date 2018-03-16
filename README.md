@@ -35,4 +35,5 @@ HTTP(HTTP2/Socket) -> HTML+ CSS(3,4) -> JavaScript(ES5/6/7/8) -> Framework(Vue/A
 
 [常见面试题](https://github.com/Liyuk/Interview-Questions-Answers)
 
+[URL加载过程](https://zhuanlan.zhihu.com/p/34453198)
 
