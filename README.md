@@ -40,3 +40,4 @@ HTTP(HTTP2/Socket) -> HTML+ CSS(3,4) -> JavaScript(ES5/6/7/8) -> Framework(Vue/A
 
 [社招前端笔试面试题总结](https://juejin.im/post/5af3cc4af265da0ba3521028#comment)
 
+[2018 美团、腾讯、头条、蔚来 社招面试随谈](https://juejin.im/post/5ae13cfe5188256715475806#comment)
