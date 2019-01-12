@@ -43,3 +43,6 @@ HTTP(HTTP2/Socket) -> HTML+ CSS(3,4) -> JavaScript(ES5/6/7/8) -> Framework(Vue/A
 [2018 美团、腾讯、头条、蔚来 社招面试随谈](https://juejin.im/post/5ae13cfe5188256715475806#comment)
 
 [一年半经验，百度、有赞、阿里面试总结](https://juejin.im/post/5befeb5051882511a8527dbe)
+
+[寒冬中的一年半前端跳槽](https://juejin.im/post/5c356f68f265da61483bca61)
+
