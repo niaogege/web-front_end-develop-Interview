@@ -46,3 +46,5 @@ HTTP(HTTP2/Socket) -> HTML+ CSS(3,4) -> JavaScript(ES5/6/7/8) -> Framework(Vue/A
 
 [寒冬中的一年半前端跳槽](https://juejin.im/post/5c356f68f265da61483bca61) (推荐指数：★★★★★)
 
+[nginx在应用程序中的作用](https://juejin.im/post/5c85a64d6fb9a04a0e2e038c?utm_source=gold_browser_extension)
+
